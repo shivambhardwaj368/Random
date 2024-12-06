@@ -1,0 +1,9 @@
+.app {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  border: 2px solid salmon;
+  height:500px;
+}
